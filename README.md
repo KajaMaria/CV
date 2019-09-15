@@ -3,3 +3,7 @@
 ![Screen Shot 2019-09-15 at 20 24 52](https://user-images.githubusercontent.com/30932310/64926574-f42c9580-d7f6-11e9-9b70-a98448859d58.png)
 ![Screen Shot 2019-09-15 at 20 26 44](https://user-images.githubusercontent.com/30932310/64926587-30f88c80-d7f7-11e9-90b9-0e70184b322a.png)
 
+| Projects I have worked on| Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |

@@ -10,7 +10,7 @@
 | `React` | [Link to Front-End with react](https://github.com/BenjaminDarking/project_pry/tree/master/react) |
 | `Rails` | [Link to Team project using rails](https://github.com/KajaMaria/Acebook) |
 | `JavaScript` | [Link to Front-End in JS](https://github.com/KajaMaria/news-summary-challenge) |
-| `Neo4j` | [Link to Most beutiful graph database in use](https://github.com/BenjaminDarking/project_pry/blob/master/react/src/components/neo.js) |
+| `Neo4j` | [Link to the most beutiful graph database in use](https://github.com/BenjaminDarking/project_pry/blob/master/react/src/components/neo.js) |
 
 
 

@@ -22,6 +22,7 @@ Passionate about problem solving, often spending hours and hours trying to work 
 
 ## Team-work 
 
+![team](https://user-images.githubusercontent.com/30932310/65261807-5512e100-db09-11e9-840f-129869457d4e.png)
 
 ## Fast learner 
 

@@ -22,6 +22,24 @@ Passionate about problem solving, often spending hours and hours trying to work 
 
 ## Team-work & People
 
+### Learning & Growing with People
+
+#### Codebar
+
+- Organising non-profit coding workshops for girls & minorities
+
+#### Makers Acadmey
+
+ - when we had issues i was able to bring people back together adn ensure everyone is empowered to contribute with their knowledge and experience. 
+
+### Experience working with clients:  
+- Successfully acquired clients from both sides of the market spectrum (corporate and tech start-ups).
+- Experience presenting and negotiating agreements with global companies.
+- Selected to bring together a creative group within the company to look for new ways of finding and improving business.
+- Collaboration: Winner of multiple internal competitions for hitting targets and achieving the biggest amount of new clients within the team.
+- Attending weekly out of hours coding and networking meetings in tech sector, to build relationships and understand sector’s needs and culture.
+
+
 
 ![twitterevent](https://user-images.githubusercontent.com/30932310/65262554-de76e300-db0a-11e9-93d7-bcf40630a7ea.jpg)
 

@@ -20,11 +20,12 @@ Passionate about problem solving, often spending hours and hours trying to work 
 
 ![Screen Shot 2019-09-18 at 18 35 18](https://user-images.githubusercontent.com/30932310/65229148-14e13d80-dacc-11e9-9a60-67b2a04fdc8c.png)
 
-## Team-work 
+## Team-work & People
 
 - Past experience in Savills
 
-![team](https://user-images.githubusercontent.com/30932310/65261807-5512e100-db09-11e9-840f-129869457d4e.png)
+![twitterevent](https://user-images.githubusercontent.com/30932310/65262554-de76e300-db0a-11e9-93d7-bcf40630a7ea.jpg)
+
 
 ## Fast learner 
 

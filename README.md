@@ -7,10 +7,10 @@
 | Tech| Projects |
 | --- | --- |
 | `Python` | [Link to my final project using Python](https://github.com/BenjaminDarking/project_pry) |
-| `React` | [Front-End with react](https://github.com/BenjaminDarking/project_pry/tree/master/react) |
-| `Rails` | [Team project using rails](https://github.com/KajaMaria/Acebook) |
-| `JavaScript` | [Front-End in JS](https://github.com/KajaMaria/news-summary-challenge) |
-| `Neo4j` | [Most beutiful graph database in use](https://github.com/BenjaminDarking/project_pry/blob/master/react/src/components/neo.js) |
+| `React` | [Link to Front-End with react](https://github.com/BenjaminDarking/project_pry/tree/master/react) |
+| `Rails` | [Link to Team project using rails](https://github.com/KajaMaria/Acebook) |
+| `JavaScript` | [Link to Front-End in JS](https://github.com/KajaMaria/news-summary-challenge) |
+| `Neo4j` | [Link to Most beutiful graph database in use](https://github.com/BenjaminDarking/project_pry/blob/master/react/src/components/neo.js) |
 
 
 

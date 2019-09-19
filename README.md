@@ -31,3 +31,11 @@ Passionate about problem solving, often spending hours and hours trying to work 
 
 ![bjj](https://user-images.githubusercontent.com/30932310/65262189-14679780-db0a-11e9-988d-985595f408f0.jpg)
 
+## Education
+
+- Makers Academy : Software Engineering 12 weeks bootcamp (June - September 2019) 
+- 23CodeStreet : Front-end Development Course (September-December 2018)
+- Msc Psychology : Kingston University (2012-1013)
+- Bsc Psychology, Genetics, Human Biology & Health: Aberystwyth (2009-2013)
+
+### [Link to my CV](https://drive.google.com/file/d/12pSqlx13Eyz4_s7VeLRwXjaluj-mA2Pk/view?usp=sharing)

@@ -6,12 +6,11 @@
 
 | Tech| Projects |
 | --- | --- |
-| `Python` | List all *new or modified* files |
-| `React` | Show file differences that **haven't been** staged |
-| `Rails` | Show file differences that **haven't been** staged |
-| `Ruby` | Show file differences that **haven't been** staged |
-| `JavaScript` | Show file differences that **haven't been** staged |
-| `Neo4j` | Show file differences that **haven't been** staged |
+| `Python` | [Link to my final project using Python](https://github.com/BenjaminDarking/project_pry) |
+| `React` | [Front-End with react](https://github.com/BenjaminDarking/project_pry/tree/master/react) |
+| `Rails` | [Team project using rails](https://github.com/KajaMaria/Acebook) |
+| `JavaScript` | [Front-End in JS](https://github.com/KajaMaria/news-summary-challenge) |
+| `Neo4j` | [Most beutiful graph database in use](https://github.com/BenjaminDarking/project_pry/blob/master/react/src/components/neo.js) |
 
 
 

@@ -22,7 +22,6 @@ Passionate about problem solving, often spending hours and hours trying to work 
 
 ## Team-work & People
 
-- Past experience in Savills
 
 ![twitterevent](https://user-images.githubusercontent.com/30932310/65262554-de76e300-db0a-11e9-93d7-bcf40630a7ea.jpg)
 

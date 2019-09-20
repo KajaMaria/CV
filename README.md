@@ -55,4 +55,13 @@ Passionate about problem solving, often spending hours and hours trying to work 
 - Msc Psychology : Kingston University (2012-1013)
 - Bsc Psychology, Genetics, Human Biology & Health: Aberystwyth (2009-2013)
 
+## Volunteering
+
+- Little Kids Orphanage in Tbilisi, Georgia(2013) 
+- Euro2012 - Team leader for translating group in Hospital
+
+## Achievements
+
+Destination Imagination & Odyssey of the Mind: Twice won 1st place in Poland and 4th and 6th place in the US in the team creativity competition requiring machine building and fast problem solving (2003 & 2004)
+
 ### [Link to my CV](https://drive.google.com/file/d/12pSqlx13Eyz4_s7VeLRwXjaluj-mA2Pk/view?usp=sharing)

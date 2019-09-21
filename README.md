@@ -48,7 +48,7 @@
 ## Fast learner 
 
 I have repeatedly demonstrated my ability to teach myself new skills and then excel in adapting to any situation and in turn, passing my learning on to others. I have developed and enhanced these partnered learning skills from my early progression in my previous role where i was fast tracked for promotion, then in leading one of the new ideas teams within the company.
- Two years ago i have also started Brazilian jiu Jitsu which has quickly became my passion and with a great support of other members i was promoted to a blue belt. Sharing my newly learner skills is incredibly important to mr, so thrive when I am around other passionate people.
+ Two years ago i have also started Brazilian jiu Jitsu which has quickly became my passion and with a great support of other members i was promoted to a blue belt. Sharing my newly learner skills is incredibly important to me, so thrive when I am around other passionate people.
 
 I enjoy working in challenging environments and developing or learning from others. For this reason I have chosen a career in software development with its continuous problems and infinite depth of learning.
 

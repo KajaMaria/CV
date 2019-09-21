@@ -30,7 +30,8 @@
 
 #### Makers Acadmey
 
- - when we had issues i was able to bring people back together adn ensure everyone is empowered to contribute with their knowledge and experience. 
+ - Long track record - both in the past and in Makers - with the ability to encourage my team mates and to highlight their skills, making projects efficient and fun as a result. 
+
 
 ### Experience working with clients:  
 

@@ -26,7 +26,7 @@
 
 #### Codebar
 
-- Organising non-profit coding workshops for girls & minorities
+- Coding events management experience and public speaking skills with organising non-profit coding workshops for girls & minorities.
 
 #### Makers Acadmey
 

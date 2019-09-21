@@ -24,8 +24,6 @@
 
 ## Team-work & People
 
-### Learning & Growing with People
-
 #### Codebar
 
 - Organising non-profit coding workshops for girls & minorities
@@ -35,6 +33,7 @@
  - when we had issues i was able to bring people back together adn ensure everyone is empowered to contribute with their knowledge and experience. 
 
 ### Experience working with clients:  
+
 - Successfully acquired clients from both sides of the market spectrum (corporate and tech start-ups).
 - Experience presenting and negotiating agreements with global companies.
 - Selected to bring together a creative group within the company to look for new ways of finding and improving business.
@@ -48,11 +47,21 @@
 
 ## Fast learner 
 
+I have repeatedly demonstrated my ability to teach myself new skills and then excel in adapting to any situation and in turn, passing my learning on to others. I have developed and enhanced these partnered learning skills from my early progression in my previous role where i was fast tracked for promotion, then in leading one of the new ideas teams within the company.
+ Two years ago i have also started Brazilian jiu Jitsu which has quickly became my passion and with a great support of other members i was promoted to a blue belt. Sharing my newly learner skills is incredibly important to mr, so thrive when I am around other passionate people.
+
+I enjoy working in challenging environments and developing or learning from others. For this reason I have chosen a career in software development with its continuous problems and infinite depth of learning.
+
 ![bjj](https://user-images.githubusercontent.com/30932310/65262189-14679780-db0a-11e9-988d-985595f408f0.jpg)
 
 ## Education
 
 - Makers Academy : Software Engineering 12 weeks bootcamp (June - September 2019) 
+
+Sixteen weeks to discover for yourself you’re most effective; problem solving, debugging, design and development techniques.
+
+Makers is an agile environment which aims to produce self-sufficient developers who can apply their techniques to any situation.
+
 - 23CodeStreet : Front-end Development Course (September-December 2018)
 - Msc Psychology : Kingston University (2012-1013)
 - Bsc Psychology, Genetics, Human Biology & Health: Aberystwyth (2009-2013)

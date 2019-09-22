@@ -19,7 +19,7 @@
 | `Database` | PostgreSQL, ActiveRecord, Neo4j|
 | `CSS` | Bootstrap, Bulma, Material UI, Materialize CSS |
 | `Deplyment` | 	Heroku, Netlify, AWS |
-| `Testing' | Rails, Pytest, Capybara, Unit Testing  |
+| `Testing`| Rails, Pytest, Capybara, Unit Testing  |
 
 
 ## Problem solving skills

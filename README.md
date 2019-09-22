@@ -49,6 +49,12 @@
 - Collaboration: Winner of multiple internal competitions for hitting targets and achieving the biggest amount of new clients within the team.
 - Attending weekly out of hours coding and networking meetings in tech sector, to build relationships and understand sector’s needs and culture.
 
+### User experience 
+
+As a passionate solution oriented developer, I would be able to use my experience working with clients in a fast paced environment to deliver quality and user friendly product. 
+I believe that by applying well researched and user focused technological solutions I can increase the value of the product. 
+A recent example of such is my last assignment with Makers. While working with Twitter’s API on our final project, we visualised data by implementing Neo4j in an effective way. This allows users to understand data output in a much clearer and simplified manner. 
+
 
 
 ![twitterevent](https://user-images.githubusercontent.com/30932310/65262554-de76e300-db0a-11e9-93d7-bcf40630a7ea.jpg)

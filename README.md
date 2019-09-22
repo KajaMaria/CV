@@ -14,6 +14,14 @@
 | `Neo4j` | [Link to the most beutiful graph database in use](https://github.com/BenjaminDarking/project_pry/blob/master/react/src/components/neo.js) |
 
 
+| Tech| Projects |
+| --- | --- |
+| `Database` | PostgreSQL, ActiveRecord, Neo4j|
+| `CSS` | Bootstrap, Bulma, Material UI, Materialize CSS |
+| `Deplyment` | 	Heroku, Netlify, AWS |
+| `Testing' | Rails, Pytest, Capybara, Unit Testing  |
+
+
 ## Problem solving skills
 
  Passionate about problem solving:

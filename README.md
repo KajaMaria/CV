@@ -72,9 +72,7 @@ I enjoy working in challenging environments and developing or learning from othe
 ## Education
 
 - Makers Academy : Software Engineering 12 weeks bootcamp (June - September 2019) 
-
 Sixteen weeks to discover for yourself you’re most effective; problem solving, debugging, design and development techniques.
-
 Makers is an agile environment which aims to produce self-sufficient developers who can apply their techniques to any situation.
 
 - 23CodeStreet : Front-end Development Course (September-December 2018)
